@@ -30,7 +30,7 @@ body{
 
 @media screen and (max-width: 670px) {
 	.module {
-		width: 300px;
+		width: 370px;
 	}
 	body{
 		background-color: #f1fa5b;
@@ -43,6 +43,7 @@ body{
 		background: #30fafcd;
 	}
 	h2{
+		font: bold 65px Sans-Serif;
 		background-color: red;
 		color: #f1fa5b;
 	}
@@ -57,8 +58,8 @@ body{
 	float: left;
 	margin: 5px;
 	padding: 5px;
-	width: 400px;
-	height: 475px;
+	width: 300px;
+	height: 300px;
 	border: 1px solid black;
 } 
 
